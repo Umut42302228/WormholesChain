@@ -5,10 +5,9 @@
 nano wormholes_install.sh
 ```
 
-## İçinde ki her şeyi siliyoruz ve altta ki komutu giriyoruz:
+## İçinde ki her şeyi silelim ve altta ki komutu girelim:
 
-* Silmenin kısa yolu sol en üst başa gelip ctrl+k yaparsanız her satırı sırayla siler.
-* Komutu yapıştırdıktan sonra: CTRL +  X + Y + ENTER
+* Komutu yapıştırdıktan sonra: CTRL +  X + Y + ENTER ile kayıt edip çıkalım
 
 ```
 #!/bin/bash
