@@ -2,7 +2,7 @@
 
 ## İçersine giriyoruz:
 ```
-nano ruesandora.sh
+nano wormholes_install.sh
 ```
 
 ## İçinde ki her şeyi siliyoruz ve altta ki komutu giriyoruz:
@@ -74,7 +74,7 @@ docker exec -it wormholes /usr/bin/cat /wm/.wormholes/wormholes/nodekey
 * Cüzdandan aldığımız private keyi giriyoruz
 
 ```
-bash ./ruesandora.sh
+bash ./wormholes_install.sh
 ```
 
 
