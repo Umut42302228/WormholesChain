@@ -4,7 +4,7 @@
 ```
 nano wormholes_install.sh
 ```
-## Açılan ekranda CTRL+K ile tektek satırları silin aşağıdaki kodları tek seferde copy past yapın CTRL+X ve Y ile kaydedip çıkın
+## Açılan ekranda CTRL+K ile satırları silip aşağıdaki kodu aynı dosya içerisine yapıştırıyoruz
 
 
 ```
